@@ -116,7 +116,7 @@ function renderShell() {
     '<nav class="sidenav">' +
       '<div class="sidenav__brand">' +
         '<span class="sidenav__brand-mark">NCPOR · OPS</span>' +
-        '<span class="sidenav__brand-name">Polar Ops</span>' +
+        '<span class="sidenav__brand-name">DHRUV SETU</span>' +
       '</div>' +
       '<ul class="sidenav__list">' +
         NAV.map(n =>
