@@ -1,5 +1,5 @@
 /* ==========================================================================
-   POLAR OPS — data layer
+   DHRUV SETU — data layer
    Everything persists to localStorage under one namespaced key. On first
    run (or after "Reset demo data") the store is seeded with a realistic
    scenario so every module has something to show.
