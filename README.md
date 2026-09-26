@@ -1,4 +1,4 @@
-# Polar Ops — Integrated Expedition Logistics & Asset Management
+# DHRUV SETU — Integrated Expedition Logistics & Asset Management
 
 A working prototype for SIH-2026 Problem Statement PS26062: a single
 platform covering expedition planning, cargo tracking, station inventory,
@@ -76,7 +76,7 @@ one sitting:
 ## File structure
 
 ```
-polar-ops/
+DhruvSetu/
 ├── index.html              Page shell, loads styles and scripts
 ├── css/
 │   └── styles.css          Full design system (colour, type, components)
