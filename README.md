@@ -1,4 +1,4 @@
-# DHRUV SETU — Integrated Expedition Logistics & Asset Management
+# DHRUV SETU — Integrated Expedition Logistics and Asset Management
 
 A working prototype for SIH-2026 Problem Statement PS26062: a single
 platform covering expedition planning, cargo tracking, station inventory,
